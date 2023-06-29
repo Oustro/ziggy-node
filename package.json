@@ -1,0 +1,9 @@
+{
+  "name": "ziggy-node",
+  "version": "1.0.0",
+  "description": "Node module for Ziggy SDK",
+  "main": "index.js",
+  "repository": "https://github.com/Oustro/ziggy-node.git",
+  "author": "Oustro, LLC Engineering <engineering@oustro.xyz>",
+  "license": "MIT"
+}
